@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile_pic.jpg"
+  avatar           : "Profile_pic.jpeg"
   name             : "Srijan Das"
   pronouns         : # example: "he/him"  
   bio              : "PhD student @ CSE IIT Bombay"
