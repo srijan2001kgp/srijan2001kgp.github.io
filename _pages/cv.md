@@ -12,20 +12,29 @@ redirect_from:
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Technology (MTech), IIT Kharagpur, 2024
+* Bachelor of Technology (BTech) (as part of dual degree), IIT Kharagpur, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Autumn 2025: Teaching Assistant for the course 'Data Interpretation and Analysis'
+  * IIT Bombay
+  * Duties includes: Evaluation of assignments
+  * Supervisor: Prof. Ajit Rajwade
+    
+* Autumn 2023: Teaching Assistant for the course 'Image processing'
+  * IIT Kharagpur
+  * Duties includes: Evaluation of assignments
+  * Supervisor: Prof. Jayanta Mukherjee
+    
+* Spring 2024: Teaching Assistant for the course 'Computational Geometry'
+  * IIT Kharagpur
+  * Duties includes: Evaluation of assignments
+  * Supervisor: Prof. Partha Bhowmick
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May-July 2023: Software Development Intern
+  * GreatFour Systems Pvt. Ltd., Hyderabad, India
+  * Worked on Image Processing projects to detect Key Line Diagrams from artworks, comparison between images, color detection and contour detection in test images
 
 * Summer 2015: Research Assistant
   * GitHub University
@@ -34,13 +43,21 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Object oriented Programming
+    * C++
+    * Python
+* Matlab
+* Deep Learning with PyTorch
+* Microsoft Office (Excel, PowerPoint, Word)
+* Academic Writing
 
+Projects
+========
+* Worked on proving NP-completeness of a variant of Point Line Cover (Omino Line Cover) problem.
+* Worked on symmetry detection, up to a certain degree of error, of digital sets in 2-D plane.
+* Did a case study on Multimodal human emotion recognition using principles of AI.
+* Worked on vectorization of digital curves in 2-D plane.
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -62,3 +79,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
